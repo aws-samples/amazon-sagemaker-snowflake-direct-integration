@@ -1,0 +1,3 @@
+sagemaker
+snowflake-connector-python[pandas]
+joblib
