@@ -1,11 +1,6 @@
-## My Project
+## Amzon SageMaker and Snowflake Direct Integration
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This example repository shows sample code of how to get data from snowflake in a SageMaker job to process data without saving the data in Amazon S3.
 
 ## Security
 
